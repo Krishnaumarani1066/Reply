@@ -1,8 +1,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
 ![License](https://img.shields.io/badge/License-Apache%202.0-orange)
-Reply App - Navigation Update Starter Code
-=================================
+
+
 Navigation update starter code for the Android Basics with Compose: Reply app.
 
 Introduction
